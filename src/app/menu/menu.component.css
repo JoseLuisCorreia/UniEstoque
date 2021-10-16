@@ -1,0 +1,12 @@
+.fonte{
+    color: rgb(23, 216, 216);
+    font-weight: bold;
+}
+
+.logo{
+    border-radius: 25%;
+}
+
+a{
+    text-decoration: none;
+}

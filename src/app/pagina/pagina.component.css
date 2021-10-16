@@ -1,0 +1,41 @@
+.bg1{
+    background-color: rgb(23, 216, 216);
+}
+
+
+
+.fonte1{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.fonte2{
+    font-weight: bold;
+    font-size:60px;
+    color: rgb(23, 216, 216);
+}
+
+.fonte3{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.espacoEsquerdo{
+    padding-left: 70pt;
+}
+
+.espacoTopo{
+    padding-top: 70pt;
+}
+
+.btn{
+    background-color: rgb(210, 243, 65);
+    color: rgb(86, 6, 161);
+    font-weight: bold;
+}
+.li{
+    list-style: none;
+    margin-left: -25px;
+    font-weight: bold;
+    font-size: 30px;
+}
