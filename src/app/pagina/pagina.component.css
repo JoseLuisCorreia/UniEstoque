@@ -15,17 +15,41 @@
     color: rgb(23, 216, 216);
 }
 
+.fonte21{
+    font-weight: bold;
+    font-size:60px;
+    color: rgb(64, 47, 218);
+}
+
 .fonte3{
     font-weight: bold;
     font-size: 40px;
+}
+
+.fonte4{
+    font-weight: bold;
+    color: dimgray;
+}
+
+.fonte5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .espacoEsquerdo{
     padding-left: 70pt;
 }
 
+.espacoDireito{
+    padding-right: 130pt;
+    padding-left: 40pt;
+}
+
 .espacoTopo{
     padding-top: 70pt;
+}
+
+.espacoTopo2{
+    padding-top: 20pt;
 }
 
 .btn{
@@ -38,4 +62,14 @@
     margin-left: -25px;
     font-weight: bold;
     font-size: 30px;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+}
+ 
+.center-justified {
+    text-align: justify;
+    text-align-last: center;
 }
