@@ -1,0 +1,22 @@
+.bg1{
+    background-color: rgb(23, 216, 216);
+}
+
+.font{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(86, 6, 161);
+}
+
+.alinhamento-direita {
+  padding-left: 80px;
+
+}
+
+.espacoEsquerdo{
+    padding-left: 70pt;
+}
+
+.icon{
+    font-size: 20px;
+}
