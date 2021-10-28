@@ -1,12 +1,20 @@
 .fonte{
-    color: rgb(23, 216, 216);
+    color: #6d50f0;
     font-weight: bold;
 }
 
-.logo{
-    border-radius: 25%;
-}
 
 a{
     text-decoration: none;
 }
+
+.alinhamento-direita {
+    padding-left: 20px;
+  
+  }
+
+  nav{
+      
+      background-color: #ffffff;
+  }
+
