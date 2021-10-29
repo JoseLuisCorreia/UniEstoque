@@ -7,6 +7,7 @@ import { MenuComponent } from './menu/menu.component';
 import { PaginaComponent } from './pagina/pagina.component';
 import { FooterComponent } from './footer/footer.component';
 import { SobreComponent } from './sobre/sobre.component';
+import { FormularioComponent } from './formulario/formulario.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { SobreComponent } from './sobre/sobre.component';
     MenuComponent,
     PaginaComponent,
     FooterComponent,
-    SobreComponent
+    SobreComponent,
+    FormularioComponent
   ],
   imports: [
     BrowserModule,

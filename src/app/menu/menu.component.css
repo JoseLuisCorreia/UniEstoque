@@ -3,6 +3,11 @@
     font-weight: bold;
 }
 
+.margin21{
+    padding-left: 10pt;
+
+}
+
 
 a{
     text-decoration: none;
@@ -18,3 +23,17 @@ a{
       background-color: #ffffff;
   }
 
+  .iconEmail{
+   color: #6e1313;
+}
+
+  .logoWhatsapp{
+      color: #34af23;
+  }
+
+
+
+
+
+
+  
