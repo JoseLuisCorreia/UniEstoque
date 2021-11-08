@@ -1,39 +1,39 @@
-.fonte{
+.fonte {
     color: #6d50f0;
     font-weight: bold;
-}
-
-.margin21{
+  }
+  
+  .margin21 {
     padding-left: 10pt;
-
-}
-
-
-a{
+  }
+  
+  a {
     text-decoration: none;
-}
-
-.alinhamento-direita {
+  }
+  
+  .alinhamento-direita {
     padding-left: 20px;
+  }
   
+  nav {
+    background-color: #ffffff;
   }
-
-  nav{
-      
-      background-color: #ffffff;
+  
+  .iconEmail {
+    color: #6e1313;
   }
-
-  .iconEmail{
-   color: #6e1313;
-}
-
-  .logoWhatsapp{
+  
+  .logoWhatsapp {
+    color: #34af23;
+  }
+  
+  .efeito:hover{
       color: #34af23;
+      cursor: pointer;
+      transform: translateY(-3px);
   }
 
-
-
-
-
-
-  
+  .borda1{
+    border-top: #34af23;
+    border: 10px;
+  }
