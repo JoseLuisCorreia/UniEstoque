@@ -6,7 +6,7 @@ import { PaginaComponent } from './pagina/pagina.component';
 import { SobreComponent } from './sobre/sobre.component';
 
 const routes: Routes = [
-  {path: '', redirectTo: 'pagina', pathMatch: 'full' },
+  {path: '', redirectTo: 'https://unruffled-jo-luis-42a4fse.netlify.app/', pathMatch: 'full' },
   {path: 'menu' , component: MenuComponent},
   {path:'sobre' ,component: SobreComponent},
   {path: 'pagina' ,component: PaginaComponent },
