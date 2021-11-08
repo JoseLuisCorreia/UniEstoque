@@ -6,7 +6,7 @@ import { PaginaComponent } from './pagina/pagina.component';
 import { SobreComponent } from './sobre/sobre.component';
 
 const routes: Routes = [
-  /*{path:' ',redirectTo:'pagina', pathMatch:'full'},*/
+  {path:' ',redirectTo:'pagina'},
 
   {path: 'pagina' ,component: PaginaComponent },
 
