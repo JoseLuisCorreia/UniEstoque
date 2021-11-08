@@ -1,57 +1,54 @@
-.bg1{
-    background-color: #0e0e4b;
+.bg1 {
+  background-color: #0e0e4b;
 }
 
-.font{
-    font-weight: bold;
-    font-size: 20px;
-    color: #ffffff;
+.font {
+  font-weight: bold;
+  font-size: 20px;
+  color: #ffffff;
 }
 
-.corFonte{
-    color: #ffffff;
+.corFonte {
+  color: #ffffff;
 }
 
 .alinhamento-direita {
   padding-left: 80px;
 }
 
-.espacoEsquerdo{
-    padding-left: 70pt;
+.espacoEsquerdo {
+  padding-left: 70pt;
 }
 
-.efeito:hover{
-    padding-left: 15px;
-    transition: 300ms;
+.efeito:hover {
+  padding-left: 15px;
+  transition: 300ms;
 }
 
-.efeito2:hover{
-    cursor: pointer;
+.efeito2:hover {
+  cursor: pointer;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-.icon{
-    font-size: 25px;
+.icon {
+  font-size: 25px;
 }
 
-.iconEfeito:hover{
-    color: darkviolet;
-    transition: 0.5s;
-    padding-right: -10px;
-    font-size: 35px; 
+.iconEfeito:hover {
+  color: darkviolet;
+  transition: 0.5s;
+  padding-right: -10px;
+  font-size: 35px;
 }
 
-.divPrincipal{
-    margin:0;
-    padding:0;
-    border:0;
+.divPrincipal {
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
-
-
-
 
 
 .card-container {
@@ -84,26 +81,25 @@ a{
 
 
 
-.card-container01{
-    display: flex;
-    flex-flow: column;
+.card-container01 {
+  display: flex;
+  flex-flow: column;
 }
 
 .card-container01 .card01:not(.highlight-card01):hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
-  }
-  
-  .card-container01 .card01:not(.highlight-card01):hover .material-icons path {
-    fill: rgb(105, 103, 103);
-  }
-  
-  .card01 {
-    border-radius: 4px;
-    padding: 10px;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    transition: all 0.2s ease-in-out;
-  }
+  transform: translateY(-3px);
+  box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+}
 
+.card-container01 .card01:not(.highlight-card01):hover .material-icons path {
+  fill: rgb(105, 103, 103);
+}
+
+.card01 {
+  border-radius: 4px;
+  padding: 10px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease-in-out;
+}

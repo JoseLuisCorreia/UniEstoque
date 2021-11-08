@@ -1,122 +1,122 @@
-.bg1{
-    background-color: rgb(44, 62, 104); 
+.bg1 {
+  background-color: rgb(44, 62, 104);
 }
 
-.bg2{
-    background-color: #dfdee4;
+.bg2 {
+  background-color: #dfdee4;
 }
 
-.margButton{
-    padding-bottom: 30px;
-    
-}
+.margButton {
+  padding-bottom: 30px;
 
-
-li{
-    list-style: none;
-    margin-left: -25px;
 }
 
 
-
-
-.btn21:hover{
-    
-    background-color: rgb(72, 212, 67);
-}
-
-.fonte1{
-    font-weight: bold;
-    font-size: 60px;
-    font-family: monospace;
-}
-
-.fonte5{
-    font-weight: bold;
-    font-size: 30px;
-    font-family: monospace;
-}
-
-.fonte3{
-    font-weight: bold;
-    font-size: 30px;
-    font-family: monospace;
+li {
+  list-style: none;
+  margin-left: -25px;
 }
 
 
-.descricoes{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 30px;
+
+
+.btn21:hover {
+
+  background-color: rgb(72, 212, 67);
 }
 
-.fonte2{
-    font-weight: bold;
-    font-size:60px;
-    color: rgb(23, 216, 216);
+.fonte1 {
+  font-weight: bold;
+  font-size: 60px;
+  font-family: monospace;
 }
 
-.fonte21{
-    font-weight: bold;
-    font-size:60px;
-    color: #2b119e;
+.fonte5 {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: monospace;
 }
 
-.fonte3{
-    font-weight: bold;
-    font-size: 40px;
+.fonte3 {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: monospace;
 }
 
-.fonte4{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    color: dimgray;
+
+.descricoes {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
 }
 
-.espacoEsquerdo{
-    padding-left: 10%;
+.fonte2 {
+  font-weight: bold;
+  font-size: 60px;
+  color: rgb(23, 216, 216);
 }
 
-.espacoDireito{
-    margin-right: 5%;
-    padding-left: 10%;
+.fonte21 {
+  font-weight: bold;
+  font-size: 60px;
+  color: #2b119e;
 }
 
-.espacoDireito1{
-    padding-right: 5%;
-    
+.fonte3 {
+  font-weight: bold;
+  font-size: 40px;
 }
 
-.espacoDireito2{
-    margin-right: 5%;
-    padding-left: 10%;
+.fonte4 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: dimgray;
 }
 
-.espacoTopo0{
-    padding-top: 70pt;
+.espacoEsquerdo {
+  padding-left: 10%;
 }
 
-.espacoTopo{
-    padding-top: 70pt;
+.espacoDireito {
+  margin-right: 5%;
+  padding-left: 10%;
 }
 
-.espacoTopo2{
-    padding-top: 20pt;
+.espacoDireito1 {
+  padding-right: 5%;
+
 }
 
-.espacoBase{
-    padding-bottom: 40px;
+.espacoDireito2 {
+  margin-right: 5%;
+  padding-left: 10%;
 }
 
-.corPadrao{
-    color: #d8aa14;
+.espacoTopo0 {
+  padding-top: 70pt;
 }
 
-.corPadrao1{
-    background-image: linear-gradient(to bottom,#d8aa14, #d87314, #c46004);
-    background-clip: text;
-    -webkit-background-clip: text; 
-    -webkit-text-fill-color: transparent;
-    color: black;
+.espacoTopo {
+  padding-top: 70pt;
+}
+
+.espacoTopo2 {
+  padding-top: 20pt;
+}
+
+.espacoBase {
+  padding-bottom: 40px;
+}
+
+.corPadrao {
+  color: #d8aa14;
+}
+
+.corPadrao1 {
+  background-image: linear-gradient(to bottom, #d8aa14, #d87314, #c46004);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: black;
 }
 
 
@@ -140,59 +140,60 @@ li{
 
 
 
-.btn{
-    background-color: #d8aa14;
-    color: rgb(44, 62, 104); 
-    font-weight: bold;
-    font-size: 20px;
+.btn {
+  background-color: #d8aa14;
+  color: rgb(44, 62, 104);
+  font-weight: bold;
+  font-size: 20px;
 }
-.li{
-    list-style: none;
-    margin-left: -25px;
-    font-weight: bold;
-    font-size: 30px;
+
+.li {
+  list-style: none;
+  margin-left: -25px;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 img.displayed {
-    display: block;
-    margin-left: auto;
+  display: block;
+  margin-left: auto;
 }
- 
+
 .center-justified {
-    text-align: justify;
-    text-align-last: center;
+  text-align: justify;
+  text-align-last: center;
 }
 
 .center-justified1 {
-    
-    text-align: center;
+
+  text-align: center;
 }
 
 
-.bg3{
-    background-color: #dfb32334;
+.bg3 {
+  background-color: #dfb32334;
 }
 
 
 
 
-.iconTamanho{
-    font-size: 30px;
+.iconTamanho {
+  font-size: 30px;
 
 }
 
-.fontTamanho{
-    font-size: 20px;
+.fontTamanho {
+  font-size: 20px;
 }
 
-.marg{
-    padding-left: 10%;
-    padding-right: 10%;
+.marg {
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
-.cards{
-    display: flex;
-    flex-flow: row;
+.cards {
+  display: flex;
+  flex-flow: row;
 }
 
 /*
@@ -202,15 +203,15 @@ img.displayed {
     
 } */
 
-.cardsJustify{
-    justify-content: center;
+.cardsJustify {
+  justify-content: center;
 
 }
 
 
 
-.cardBody{
-    background-color: rgb(44, 62, 104); 
+.cardBody {
+  background-color: rgb(44, 62, 104);
 }
 
 
@@ -226,38 +227,33 @@ img.displayed {
 
 
 .card-container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .card-container .card:not(.highlight-card):hover {
-    transform: translateY(-6px);
-    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
-    color: rgb(94, 235, 157);
-  }
-  
-  .card-container .card:not(.highlight-card):hover .material-icons path {
-    fill: rgb(105, 103, 103);
-  }
-  
-  .card {
-    border-radius: 4px;
-    border: 1px solid #0e0e4b;
-    background-color: rgb(44, 62, 104);
-    border-top-width: 10px;
-    border-top-color: #d8aa14;
-    padding: 16px;
-    display: flex;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    transition: all 0.2s ease-in-out;
-  }
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.card-container .card:not(.highlight-card):hover {
+  transform: translateY(-6px);
+  box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+  color: rgb(94, 235, 157);
+}
 
+.card-container .card:not(.highlight-card):hover .material-icons path {
+  fill: rgb(105, 103, 103);
+}
 
-
-
+.card {
+  border-radius: 4px;
+  border: 1px solid #0e0e4b;
+  background-color: rgb(44, 62, 104);
+  border-top-width: 10px;
+  border-top-color: #d8aa14;
+  padding: 16px;
+  display: flex;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease-in-out;
+}
